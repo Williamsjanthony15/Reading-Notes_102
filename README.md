@@ -11,15 +11,22 @@ My Name is Anthony Williams, I am a 25 year old that learned really early in lif
 ## My Opinions
 Your mindset should be never ending. If you think you are the smartest person in the room, than you're in the wrong room. There will always be somebody smarter, faster and better than you at any given task. Heres the deal, stop wallowing in self pity, pick yourself from failing and do it again but harder. Keep grinding. Never quit.  Growing in whatever thing you are doing is a should be a non stop, constant grind. Incasing all information you know, you want to know, and you need to know. Take your dream and than drive your life for 5 steps past that. Notice when competition runners go 150% until after they have passed the finish line? 
 
-1. In the Army the Flag on my right shoulder is backwards due to always moving forward. I have found it in my own personal life that, that meaning has really brought a different aspect into my life. I take that as I should never retreat. Nothing is to big or complicated to learn and deal with.
+1. In the Army the Flag on my right shoulder is backwards due to always moving forward. I have found it in my own personal life that, that meaning has really brought a different aspect into my life. I take that as I should never retreat. Nothing is to big or complicated to learn and deal with. The Army also tought me something that i dont think they realized they did. They tought me, to start the day off with a completed task; Making your bed. If you make your bed in the morning, that will start you off on the right foot for the day. You can go onto your day with already a completed task, feeling accomplished. 
 
 2. You have to walk before you run. Just because you don't know something now, doesnt mean you cant learn it in the future. Rather than being jealous of somebody that knows more than you, inhale as much information and knowledge as humanly possible. Take notes. Ask questions. Be humble enough to realize there is always something to learn from other people.
 
-3. Failure is the BEST way to learn something. 
-  - **F**irst
-  - **A**ttmept
-  - **I**n
-  - **L**earning
+3. Failure is the BEST way to learn something. If you think your going to ~~fail~~ you will. Keep a motivated mindset. 
+
+  F | First
+  ---------
+  A | Attempt
+  ---------
+  I | In
+  ---------
+  L | Learning
+  ---------
   
+  
+
   
    https://williamsjanthony15.github.io/Reading-Notes/

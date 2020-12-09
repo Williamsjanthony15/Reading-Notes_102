@@ -16,7 +16,7 @@
     
     
  ### **Day 2** 
- [Day-Two](/Day-Two-Learning.md)
+ [Day Two](/Day-Two-Learning.md)
 
 
 

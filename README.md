@@ -1,8 +1,8 @@
-# Welcome to my page
+# Welcome to my page**
 
-## Table of Contents
+## Table of Contents**
 --------------------
-1. ###**Day 1 
+1. ### **Day 1** 
   - Intro to Class
   - Code of conduct
   - Learning Markdown
@@ -13,21 +13,21 @@
     - Inner MD Linking
 
 
-## Intro to Class
+## **Intro to Class**
 Identified the root process of this class, what to expect, and how to succeed to the fullest in this class. 
 Ask questions. 
 Pay attention to detail.
 Interact with other students.
 
-## Code of Conduct
+## **Code of Conduct**
 Pretty self explanatory 
 Be Respectful 
 Dress Appropriately 
 Help others rather than putting others down
 
-## Learning Markdown
+## Learning Markdown**
 
-  1. **Making a Repository / Adding a Theme
+  1. **Making a Repository / Adding a Theme**
     - Top right corner of your account is your profile
     - Add Repository
     - Enter required information
@@ -35,11 +35,11 @@ Help others rather than putting others down
     - Add a theme
     - *#DONE
     
-  1. **Markdown Commonly used text to edit your README.md
-    - one * makes it italic - *italic
-    - Two *'s makes the text bold - **bold
-    - Two ~'s makes the text crossed out - ~~CrossedOut
-    - 1-6 #'s make a header and sizes it.
+  1. **Markdown Commonly used text to edit your README.md**
+    - one * front and back makes it italic - *italic
+    - Two *'s front and back makes the text bold - **bold**
+    - Two ~'s front and back makes the text crossed out - ~~CrossedOut
+    - 1-6 #'s make a header and sizes it. - (#)Text 
       - 1 #. makes it the biggest
       -...
       - 6 #.'s makes it the smallest.

@@ -45,10 +45,14 @@ Help others rather than putting others down
       - 1 #. makes it the biggest
       -...
       - 6 #.'s makes it the smallest.
-    - Ordered lists are made by using a number with a (.) after it. - 1. 2. 3. 
-        (Ordered lists by numbers doesn't care what number is in the coding. it will automatically change to numeric order.)
-     - **UN**ordered lists will be made by 3 different possible values. (+, *, or -)
-     - Referencing a outside link - exactly as follows [hyperlinkname](url) 
-     - Inserting a Picture into page - Exactly as follows ![hyperlink-name](Picture file path)
-     - 
+    - Ordered lists are made by using a number with a (.) after it. - 1. 2. 3. (Ordered lists by numbers doesn't care what number is in the coding. it will automatically change to numeric order.)
+     
+    - **UN**ordered lists will be made by 3 different possible values. (+, *, or -)
+    - Referencing a outside link - exactly as follows [hyperlinkname](url) 
+    - Inserting a Picture into page - Exactly as follows ![hyperlink-name](Picture file path)
+    - Quoting word - > infront of the sentance 
+
+## **MarkDown Vocabulary**
+
+  1. 
     

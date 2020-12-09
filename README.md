@@ -3,7 +3,7 @@
 ## Table of Contents
 --------------------
  ### **Day 1** 
- [Day-one](/day-one-fun.md)
+ [Day one](/Day-One-Fun.md)
   
   - Intro to Class
   - Code of conduct

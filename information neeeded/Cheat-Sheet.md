@@ -34,7 +34,6 @@ Notes on code for things that we have done in the beginning that you can referen
 *italics (no space)
 **Bold (no space)
 
-[this is my link](https://canvas.instructure.com/courses/2443153/modules)
 
 ^That is a link that is intergrated with a text for the hyperlink front.
   [box]no space(URL)

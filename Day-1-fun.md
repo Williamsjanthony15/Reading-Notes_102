@@ -1,6 +1,6 @@
 ## Table of Contents
 --------------------
-1. ### **Day 1** 
+### **Day 1** 
   - Intro to Class
   - Code of conduct
   - Learning Markdown
@@ -10,7 +10,8 @@
     - Basic Markdown Vocabulary
     - Inner MD Linking
 
-
+## Content's
+--------------
 ## **Intro to Class**
 Identified the root process of this class, what to expect, and how to succeed to the fullest in this class. 
 Ask questions. 

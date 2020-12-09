@@ -1,5 +1,27 @@
+# Different types of code editors 
+- github's Atom
+- microsoft's VS Code, Visual Studio 
+- NotePad++
+- Vim
+- Emacs
+- Nano
+- TextMate
 
+# Word Processors 
+- Microsoft Word 
+- Google Docs
+- Apple Pages
 
+There are a lot of different Code Editors and Word Processors alike. The all have their Pro's and Con's. 
+# Pro's: 
+- Easier platform
+- more forgiving
+-less complex coding
+- easily accessible 
+# Cons:
+- Harder to understand code
+- Less forgiving
+- Requiring a less known Proper Case
 
 
 # Remember you have to start somewhere

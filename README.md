@@ -65,5 +65,5 @@ Help others rather than putting others down
     
  # **Which leads me to my next page! Seeya Soon**
  
-  [Day-two](
+  [Day-two](Reading-Notes/Day-Two-Fun.md)
     

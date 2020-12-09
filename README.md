@@ -55,5 +55,5 @@ Your mindset should be never ending. If you think you are the smartest person in
   4. Easy to correct mistakes
 
    
-   [main information cheat sheet](https://github.com/Williamsjanthony15/Reading-Notes/blob/main/information%20neeeded/Cheat%20Sheet.md)
+   [main information cheat sheet](/information-needed/Cheat-sheet.md)
    

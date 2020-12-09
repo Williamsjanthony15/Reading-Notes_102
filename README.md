@@ -55,4 +55,15 @@ Help others rather than putting others down
 ## **MarkDown Vocabulary**
 
   1. 
+  
+## **Links to External .md**
+  1. To Create another site to attach to your README.md file
+    1. Create another file after your Readme.md file
+    2. Put your content in that file
+    3. Go back to your Readme.MD file and Utilize the "referencing a outside link" command
+    4. instead of the URL you will be putting your file path.
+    
+ # **Which leads me to my next page! Seeya Soon**
+ 
+  [Day-two]
     

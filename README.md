@@ -1,6 +1,6 @@
-# Welcome to my page**
+# Welcome to my page
 
-## Table of Contents**
+## Table of Contents
 --------------------
 1. ### **Day 1** 
   - Intro to Class
@@ -25,9 +25,10 @@ Be Respectful
 Dress Appropriately 
 Help others rather than putting others down
 
-## Learning Markdown**
+## Learning Markdown
 
   1. **Making a Repository / Adding a Theme**
+    
     - Top right corner of your account is your profile
     - Add Repository
     - Enter required information
@@ -36,6 +37,7 @@ Help others rather than putting others down
     - *#DONE
     
   1. **Markdown Commonly used text to edit your README.md**
+    
     - one * front and back makes it italic - *italic
     - Two *'s front and back makes the text bold - **bold**
     - Two ~'s front and back makes the text crossed out - ~~CrossedOut

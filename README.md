@@ -4,7 +4,7 @@
 --------------------
  ### **Day 1** 
 
-[Day one](/Day-One-Fun.md)
+[Day one](/Day-1-Fun.md)
   
   - Intro to Class
   - Code of conduct
@@ -18,7 +18,7 @@
     
  ### **Day 2** 
  
- [Day Two](/Day-Two-Learning.md)
+ [Day Two](/Day-2-Learning.md)
 
 
-
+[Day-two](/Day-2-Learning.md)

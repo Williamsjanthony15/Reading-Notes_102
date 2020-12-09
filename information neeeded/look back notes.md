@@ -67,7 +67,7 @@ Look for $ Directory
 1. *** make aliases ****** 
 1. camelCase - way of writing the name is the way to do it
 1. snake_case - another way of writing. THe name is the way to do it
-
+1. -- version - what verison of code your at
   power of abstraction. 
   If it is a specific problem, it usually is within that area.
   

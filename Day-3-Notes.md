@@ -92,5 +92,67 @@ Github is the storage cloud
   
   More Command line stuff.
   
+  .git will be in the command line Readme.md file but it doesnt matter GITHUB will understand and know its in there.... No need to deal with anything
+CLI will immedietly automatically put me in the repo
+
+PUSH will move it from CLI to Commiting...
+
+
+git remote -v 
+Tells us what remote repo is connected to my local repo on my machine
+Where is it connected and what it is...
+
+
+Pulling repo
+git clone (URL from your repo on github) 
+WHen you pull it in to CLI. Main is a branch from the repo in GIT
+push gets the two into sync 
+
+
+Visual studio code will automatically detect the changes ....
+
+Look at changes through terminakl 
+
+git status
+(Red means unstagged change)
+git Add readme.md 
+get status again 
+(green) now ready to be comminited
+git commit -m "add new line and improve readability for title"
+
+-----All these changes are on the local machine only. Havent changed anything in GITHUB -------
+
+If you get an error message than. obvioussly it idnt work
+
+git push origin main ---- pushing the data to origin main
+it will ask for your information
+to authorize the change
+
+
+Find your repo on github
+clone it from the https
+open your project on vs code
+make changes
+come back to  it
+and run our A-C-P
+add table of contents ** making changes** modifying it,. 
+save the file on my working directory
+git add . 
+git commit -m "add table of contents to provide supreme navigations"
+git push orgin main
+Authorization
+Done...... 
+
+Will save it until you push it as long as i dont kill my computer
+
+Kracken GUI
+
+Get fetch will ask the repo to return with any changes that it doesnt have
+
+Git status will tell you if your behind
+
+Git pull will pull them down and update your changes
+
+
   
 

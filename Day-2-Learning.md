@@ -1,4 +1,13 @@
 # ***Day two! lets go!***
+-------------------------
 
-Information continues
-
+  ## Learning Command line Interface (CLI)
+        - commonly used commands
+  
+  ## Intergrated Development Environment (IDE)
+  
+  ## Different Types of Code
+  
+  ## Word Processor's
+  
+  ## File Explorer

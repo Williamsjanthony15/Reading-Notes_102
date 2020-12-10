@@ -32,7 +32,7 @@ HEAD = the lable meaning YOU ARE HERE (the most recent commit and where you are)
 
 DETACHED HEAD STATE= Get staff to see what is going on it makes a difference. (on the wrong part of last commit...)
 
-Messages are like writing a caption for your snapshot. Do a description of everything you did for the commit. ANything and Everything... What did you do and Why did you do it. (leave your future self a note from the past)
+ Messages are like writing a caption for your snapshot. Do a description of everything you did for the commit. ANything and Everything... What did you do and Why did you do it. (leave your future self a note from the past)
 
 
 Working Directory  |  Staging area |  Repository

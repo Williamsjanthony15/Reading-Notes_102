@@ -23,7 +23,7 @@
   - Commands in CLI
   - File Explorer
 ----------
-  # [Day Three](Day-3-notes.md)
+  # [Day Three](/Day-3-Notes.md)
 
   - Vocabulary Words
   - Working Directory

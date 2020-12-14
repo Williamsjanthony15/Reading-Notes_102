@@ -1,5 +1,5 @@
 # **Day 6 Notes**
-
+[Go Home](/README.md)
 
 <!-- Javascript -->
 
@@ -125,6 +125,5 @@ Java script makes text yellow it is a function
 Open and close perentheis are the parameters of the function
 
 Operators
-=== compares equality of two operands with type.
-
+=== compares equality of two operands with type.// --!>
 

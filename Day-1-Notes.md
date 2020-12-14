@@ -69,4 +69,6 @@ Help others rather than putting others down.
     
  # **Which leads me to my next page! Seeya Soon**
  
-  [Day-two](/Day-2-Learning.md)
+  
+[Go Home](/README.md)
+

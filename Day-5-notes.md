@@ -34,3 +34,6 @@ Pictures can be brought in by creating a ID tag and submitting it in the HTML an
 CSS stands for Cascading style sheet
 Provides a HUGE service to HTML and other services.
 Widely known. 
+
+
+[Go Home](/README.md)

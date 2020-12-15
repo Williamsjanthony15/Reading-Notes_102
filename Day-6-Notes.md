@@ -127,3 +127,9 @@ Open and close perentheis are the parameters of the function
 Operators
 === compares equality of two operands with type.// --!>
 
+
+
+
+Console.log is purely just to leave a note on the console log 
+DOESNT NEED IT
+

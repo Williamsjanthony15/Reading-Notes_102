@@ -1,6 +1,6 @@
 # Welcome to my page
 
-## Table of Contents
+## Table of Content
 
 # [Day one](/Day-1-Fun.md)
 
